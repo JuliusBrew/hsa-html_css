@@ -74,6 +74,17 @@ body {
     transform: translateY(-2px);
 }
 
+.mobile-nav-links {
+    display: none;
+    flex-direction: column;
+    gap: 0.8rem;
+    margin-top: 10px;
+}
+
+.mobile-nav-links li{
+    list-style: none;
+}
+
 /* dropdown */
 .dropdown {
     position: relative;
@@ -731,20 +742,99 @@ section {
     transition: all 0.3s ease;
 }
 
-
-
-
-
-
-
-/* 
-.topic-space {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1.5rem;
-    margin-top: 1.5rem;
+#menu-toggle {
+    display: none;
+    font-size: 24px;
+    color: #e2e8f0;
+    cursor: pointer;
 }
 
-.topic-space > * {
-    flex: 1 1 300px; 
-} */
+
+/* responsive design  */
+@media (max-width: 990px){
+    .container {
+        width: 95%;
+    }
+
+}
+
+@media (max-width: 480px){
+    #navigation ul{
+        display: none;
+    }
+
+    #menu-toggle{
+        display: block;
+    }
+
+    .mobile-nav-links a{
+        color: #e2e8f0;
+        text-decoration: none;
+        padding: 8px 0;
+        font-size: 0.94rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        display: inline-block;
+    }
+
+    #menu-toggle:hover ~.mobile-nav-links{  
+        display: block;
+        position: absolute;
+        top: 50px;
+        right: 5px;
+        width: 200px;
+        background-color: #1e293b;
+        padding: 10px 15px;
+        border-radius: 8px;
+        color: white;
+    }
+
+    .nav-links {
+        /* width: 100%; */
+        /* display: none; */
+        /* flex-direction: column; */
+        gap: 0;
+        margin-top: 10px;   
+    }
+
+    .nav-links {
+        width: 100%;
+        display: none;
+        /* flex-direction: column; */
+        gap: 0;
+        margin-top: 10px;
+    }
+
+    .nav-links a {
+        padding: 10px 0;
+        width: 100%;
+    }
+
+    .nav-links.show {
+        display: flex;
+    }
+
+    #hero h2{
+        font-size: 32px;
+    }
+
+    .btn {
+        padding: 12px 25px;
+        font-size: 14px;
+    }
+
+    .section-title {
+        font-size: 1.6rem;
+    }
+
+    .section-title-underline {
+        width: 60px;
+        height: 2px;
+    }
+
+    .stat {
+        width: 180px;
+        padding: 25px 40px;
+    }
+
+}

@@ -17,7 +17,7 @@ We follow three core principles:
 You must create a GitHub repository with the following structure:
 
 html_css/  
-├── 0x00-the_web_begins/  
+├── 0x00-how_the_web_works/  
 ├── 0x01-html_foundations/  
 ├── 0x02-links_lists_media/  
 ├── 0x03-forms_tables/  
