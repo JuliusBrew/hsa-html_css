@@ -16,20 +16,20 @@ We follow three core principles:
 
 You must create a GitHub repository with the following structure:
 
-html_css/
-├── 0x00-the_web_begins/
-├── 0x01-html_foundations/
-├── 0x02-links_lists_media/
-├── 0x03-forms_tables/
-├── 0x04-css_foundations/
-├── 0x05-flexbox/
-├── 0x06-grid/
-├── 0x07-responsive_design/
-├── 0x08-components_core/
-├── 0x09-sections_and_layout/
-├── 0x0A-animations_and_polish/
-├── 0x0B-landing_pages/
-├── 0x0C-portfolio/
+html_css/  
+├── 0x00-the_web_begins/  
+├── 0x01-html_foundations/  
+├── 0x02-links_lists_media/  
+├── 0x03-forms_tables/  
+├── 0x04-css_foundations/  
+├── 0x05-flexbox/  
+├── 0x06-grid/  
+├── 0x07-responsive_design/  
+├── 0x08-components_core/  
+├── 0x09-sections_and_layout/  
+├── 0x0A-animations_and_polish/  
+├── 0x0B-landing_pages/  
+├── 0x0C-portfolio/  
 └── README.md
 
 
