@@ -1,15 +1,84 @@
-# SimpleSite Website Project
+# HTML & CSS Curriculum
 
-## This is a simple website created with only HTML and CSS
+Welcome to the HTML & CSS section of the program.
 
-The purpose of it is to teach beginners how webpages are built using modern HTML 5 and CSS 3. It avoids overly complicated tags and styles and favours simplicity. 
+This curriculum is designed to take you from absolute beginner to a confident frontend developer who can build clean, semantic, responsive pages and a personal component library you can reuse in future projects.
 
-It features semantic HTML tags like 
-- **Nav**
-- **Section**
-- **Footer**
+## Philosophy
 
-and uses basic css styles and features
-- **flexbox**
-- box model styles like (*margin, padding, etc*)
+We follow three core principles:
 
+1. **Small, focused projects** – You will build many small things instead of one giant tutorial.
+2. **Incremental difficulty** – Every module builds directly on what you learned before.
+3. **Reusable toolkit** – By the end you will own a personal library of components (cards, buttons, navigation, forms, etc.) instead of disposable exercises.
+
+## Repository Structure
+
+You must create a GitHub repository with the following structure:
+
+html_css/
+├── 0x00-the_web_begins/
+├── 0x01-html_foundations/
+├── 0x02-links_lists_media/
+├── 0x03-forms_tables/
+├── 0x04-css_foundations/
+├── 0x05-flexbox/
+├── 0x06-grid/
+├── 0x07-responsive_design/
+├── 0x08-components_core/
+├── 0x09-sections_and_layout/
+├── 0x0A-animations_and_polish/
+├── 0x0B-landing_pages/
+├── 0x0C-portfolio/
+└── README.md
+
+
+Create one folder per module.  
+Only place the required assignment files inside each folder.
+
+## File Naming Rules
+
+- Use **exactly** the filenames given in each module.
+- Do not rename files.
+- Do not use spaces.
+- Keep the numbering and naming style consistent (example: `0-hello_browser.html`, `4-my_first_profile.html`).
+
+## How to Work
+
+1. Read the module’s `README.md` carefully.
+2. Complete the tasks one by one.
+3. Use the module’s `CHECKLIST.md` to verify your work.
+4. Test every HTML file in the browser.
+5. Push your code to GitHub.
+6. Submit the link to your repository as instructed.
+
+## Submission
+
+We collect work through Google Classroom.  
+You only need to submit the **link to your GitHub repository** (or the specific module folder when requested).
+
+Make sure your repository is public (or shared with your reviewers).
+
+## Grading
+
+We do not expect identical content from every student.  
+We check whether your work meets the requirements listed in each module’s checklist.
+
+Focus on:
+- Correct structure
+- Required HTML elements
+- Clean and readable code
+- Basic accessibility good practices
+
+See `RUBRIC.md` for full details.
+
+## Getting Help
+
+1. Read the module README and checklist first.
+2. Check MDN (links are provided in each module).
+3. Inspect your page with Browser Developer Tools.
+4. Ask questions only after you have tried the above steps.
+
+---
+
+**Start here →** Open the folder `0x00-the_web_begins` and read its README.
