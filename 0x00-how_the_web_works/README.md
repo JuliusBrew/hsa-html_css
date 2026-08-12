@@ -79,7 +79,7 @@ You will complete:
 6. `5-devtools_network.md` - Analyze network requests
 7. `6-common_misconceptions.md` - Correct beginner misconceptions
 
-### ⭐ Mini Project
+### Mini Project
 
 `mini-project-journey_of_a_web_request.md`
 

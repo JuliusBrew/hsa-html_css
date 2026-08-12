@@ -82,4 +82,4 @@ See `RUBRIC.md` for full details.
 
 ---
 
-**Start here →** Open the folder `0x00-the_web_begins` and read its README.
+**Start here →** Open the folder `0x00-how_the_web_works` and read its README.
