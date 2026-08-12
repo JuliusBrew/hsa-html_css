@@ -69,7 +69,7 @@ By the end of this module you should be able to:
 
 ## Required Files
 
-0x05-flexbox/
+0x05-flexbox/  
 ├── README.md  
 ├── CHECKLIST.md  
 ├── 0-flex_basics.html  

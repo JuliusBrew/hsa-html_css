@@ -67,7 +67,7 @@ The emphasis is on correct structure and understanding, not visual design.
 
 ## Required Files
 
-0x03-forms_tables/
+0x03-forms_tables/  
 ├── README.md  
 ├── CHECKLIST.md  
 ├── 0-contact_form.html  

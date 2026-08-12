@@ -71,7 +71,7 @@ By the end of this module you should be able to:
 
 ## Required Files
 
-0x06-grid/
+0x06-grid/  
 ├── README.md  
 ├── CHECKLIST.md  
 ├── 0-grid_basics.html  

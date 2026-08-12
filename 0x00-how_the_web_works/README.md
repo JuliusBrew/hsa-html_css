@@ -99,7 +99,7 @@ The emphasis is on understanding the big picture, not memorizing technical detai
 
 ## Required Files
 
-0x00-how_the_web_works/
+0x00-how_the_web_works/  
 ├── README.md  
 ├── CHECKLIST.md  
 ├── 0-client_server.md  

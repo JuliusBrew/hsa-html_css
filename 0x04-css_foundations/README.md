@@ -69,7 +69,7 @@ By the end of this module you should be able to:
 
 ## Required Files
 
-0x04-css_foundations/
+0x04-css_foundations/  
 ├── README.md  
 ├── CHECKLIST.md  
 ├── 0-selectors.html  

@@ -68,7 +68,7 @@ By the end of this module you should be able to:
 
 ## Required Files
 
-0x07-responsive_design/
+0x07-responsive_design/  
 ├── README.md  
 ├── CHECKLIST.md  
 ├── 0-mobile_first.html  

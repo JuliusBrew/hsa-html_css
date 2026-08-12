@@ -80,7 +80,7 @@ The emphasis is on understanding the "why" behind HTML choices, not just memoriz
 
 ## Required Files
 
-0x01-html_foundations/
+0x01-html_foundations/  
 ├── README.md  
 ├── CHECKLIST.md  
 ├── 0-boilerplate.html  

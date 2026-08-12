@@ -82,7 +82,7 @@ The emphasis is on building functional, accessible, and well-structured pages.
 
 ## Required Files
 
-0x02-links_lists_media/
+0x02-links_lists_media/  
 ├── README.md  
 ├── CHECKLIST.md  
 ├── 0-links.html  
