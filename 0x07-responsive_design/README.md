@@ -69,19 +69,19 @@ By the end of this module you should be able to:
 ## Required Files
 
 0x07-responsive_design/
-├── README.md
-├── CHECKLIST.md
-├── 0-mobile_first.html
-├── 0-mobile_first.css
-├── 1-media_queries.html
-├── 1-media_queries.css
-├── 2-responsive_nav.html
-├── 2-responsive_nav.css
-├── 3-responsive_cards.html
-├── 3-responsive_cards.css
-├── 4-fluid_typography.html
-├── 4-fluid_typography.css
-├── mini-project-travel_site.html
+├── README.md  
+├── CHECKLIST.md  
+├── 0-mobile_first.html  
+├── 0-mobile_first.css  
+├── 1-media_queries.html  
+├── 1-media_queries.css  
+├── 2-responsive_nav.html  
+├── 2-responsive_nav.css  
+├── 3-responsive_cards.html  
+├── 3-responsive_cards.css  
+├── 4-fluid_typography.html  
+├── 4-fluid_typography.css  
+├── mini-project-travel_site.html  
 └── mini-project-travel_site.css
 
 Important Rules

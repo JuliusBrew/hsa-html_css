@@ -68,13 +68,13 @@ The emphasis is on correct structure and understanding, not visual design.
 ## Required Files
 
 0x03-forms_tables/
-├── README.md
-├── CHECKLIST.md
-├── 0-contact_form.html
-├── 1-registration_form.html
-├── 2-form_controls.html
-├── 3-basic_table.html
-├── 4-structured_table.html
+├── README.md  
+├── CHECKLIST.md  
+├── 0-contact_form.html  
+├── 1-registration_form.html  
+├── 2-form_controls.html  
+├── 3-basic_table.html  
+├── 4-structured_table.html  
 └── mini-project-student_portal.html
 
 ## Important Rules

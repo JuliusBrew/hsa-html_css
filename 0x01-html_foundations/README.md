@@ -81,14 +81,14 @@ The emphasis is on understanding the "why" behind HTML choices, not just memoriz
 ## Required Files
 
 0x01-html_foundations/
-├── README.md
-├── CHECKLIST.md
-├── 0-boilerplate.html
-├── 1-headings.html
-├── 2-text_formatting.html
-├── 3-semantic_page.html
-├── 4-accessibility_basics.html
-├── 5-blog_article.html
+├── README.md  
+├── CHECKLIST.md  
+├── 0-boilerplate.html  
+├── 1-headings.html  
+├── 2-text_formatting.html  
+├── 3-semantic_page.html  
+├── 4-accessibility_basics.html  
+├── 5-blog_article.html  
 └── mini-project-profile_page.html
 
 

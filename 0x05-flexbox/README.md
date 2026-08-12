@@ -70,21 +70,21 @@ By the end of this module you should be able to:
 ## Required Files
 
 0x05-flexbox/
-├── README.md
-├── CHECKLIST.md
-├── 0-flex_basics.html
-├── 0-flex_basics.css
-├── 1-alignment.html
-├── 1-alignment.css
-├── 2-flex_items.html
-├── 2-flex_items.css
-├── 3-navbar.html
-├── 3-navbar.css
-├── 4-cards_row.html
-├── 4-cards_row.css
-├── 5-media_object.html
-├── 5-media_object.css
-├── mini-project-pricing_section.html
+├── README.md  
+├── CHECKLIST.md  
+├── 0-flex_basics.html  
+├── 0-flex_basics.css  
+├── 1-alignment.html  
+├── 1-alignment.css  
+├── 2-flex_items.html  
+├── 2-flex_items.css  
+├── 3-navbar.html  
+├── 3-navbar.css  
+├── 4-cards_row.html  
+├── 4-cards_row.css  
+├── 5-media_object.html  
+├── 5-media_object.css  
+├── mini-project-pricing_section.html  
 └── mini-project-pricing_section.css
 
 

@@ -100,15 +100,15 @@ The emphasis is on understanding the big picture, not memorizing technical detai
 ## Required Files
 
 0x00-how_the_web_works/
-├── README.md
-├── CHECKLIST.md
-├── 0-client_server.md
-├── 1-dns_and_urls.md
-├── 2-browser_rendering.md
-├── 3-dom_explained.md
-├── 4-frontend_vs_backend.md
-├── 5-devtools_network.md
-├── 6-common_misconceptions.md
+├── README.md  
+├── CHECKLIST.md  
+├── 0-client_server.md  
+├── 1-dns_and_urls.md  
+├── 2-browser_rendering.md  
+├── 3-dom_explained.md  
+├── 4-frontend_vs_backend.md  
+├── 5-devtools_network.md  
+├── 6-common_misconceptions.md  
 └── mini-project-journey_of_a_web_request.md
 
 ## Important Rules

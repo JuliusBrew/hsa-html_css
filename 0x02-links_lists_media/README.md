@@ -83,13 +83,13 @@ The emphasis is on building functional, accessible, and well-structured pages.
 ## Required Files
 
 0x02-links_lists_media/
-├── README.md
-├── CHECKLIST.md
-├── 0-links.html
-├── 1-lists.html
-├── 2-images.html
-├── 3-navigation.html
-├── 4-figures.html
+├── README.md  
+├── CHECKLIST.md  
+├── 0-links.html  
+├── 1-lists.html  
+├── 2-images.html  
+├── 3-navigation.html  
+├── 4-figures.html  
 └── mini-project-restaurant.html
 
 ## Important Rules

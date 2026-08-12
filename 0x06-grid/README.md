@@ -72,19 +72,19 @@ By the end of this module you should be able to:
 ## Required Files
 
 0x06-grid/
-├── README.md
-├── CHECKLIST.md
-├── 0-grid_basics.html
-├── 0-grid_basics.css
-├── 1-placement.html
-├── 1-placement.css
-├── 2-grid_areas.html
-├── 2-grid_areas.css
-├── 3-photo_gallery.html
-├── 3-photo_gallery.css
-├── 4-dashboard_layout.html
-├── 4-dashboard_layout.css
-├── mini-project-magazine_layout.html
+├── README.md  
+├── CHECKLIST.md  
+├── 0-grid_basics.html  
+├── 0-grid_basics.css  
+├── 1-placement.html  
+├── 1-placement.css  
+├── 2-grid_areas.html  
+├── 2-grid_areas.css  
+├── 3-photo_gallery.html  
+├── 3-photo_gallery.css  
+├── 4-dashboard_layout.html  
+├── 4-dashboard_layout.css  
+├── mini-project-magazine_layout.html  
 └── mini-project-magazine_layout.css
 
 ## Important Rules

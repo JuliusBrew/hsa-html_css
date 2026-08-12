@@ -31,7 +31,8 @@ html_css/
 ├── 0x0B-landing_pages/  
 ├── 0x0C-portfolio/  
 ├── 0x0D-class_projects/  
-└── README.md
+├── README.md    
+└── RUBRIC.md
 
 
 Create one folder per module.  

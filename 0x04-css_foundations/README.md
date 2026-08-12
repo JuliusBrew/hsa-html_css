@@ -70,19 +70,19 @@ By the end of this module you should be able to:
 ## Required Files
 
 0x04-css_foundations/
-├── README.md
-├── CHECKLIST.md
-├── 0-selectors.html
-├── 0-selectors.css
-├── 1-specificity.html
-├── 1-specificity.css
-├── 2-box_model.html
-├── 2-box_model.css
-├── 3-typography_colors.html
-├── 3-typography_colors.css
-├── 4-basic_styling.html
-├── 4-basic_styling.css
-├── mini-project-styled_profile.html
+├── README.md  
+├── CHECKLIST.md  
+├── 0-selectors.html  
+├── 0-selectors.css  
+├── 1-specificity.html  
+├── 1-specificity.css  
+├── 2-box_model.html  
+├── 2-box_model.css  
+├── 3-typography_colors.html  
+├── 3-typography_colors.css  
+├── 4-basic_styling.html  
+├── 4-basic_styling.css  
+├── mini-project-styled_profile.html  
 └── mini-project-styled_profile.css
 
 ## Important Rules
