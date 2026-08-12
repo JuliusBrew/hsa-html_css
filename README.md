@@ -30,6 +30,7 @@ html_css/
 ├── 0x0A-animations_and_polish/  
 ├── 0x0B-landing_pages/  
 ├── 0x0C-portfolio/  
+├── 0x0D-class_projects/  
 └── README.md
 
 
@@ -47,7 +48,7 @@ Only place the required assignment files inside each folder.
 
 1. Read the module’s `README.md` carefully.
 2. Complete the tasks one by one.
-3. Use the module’s `CHECKLIST.md` to verify your work.
+3. Use the module’s `CHECKLIST.md` to ensure you have the required files.
 4. Test every HTML file in the browser.
 5. Push your code to GitHub.
 6. Submit the link to your repository as instructed.

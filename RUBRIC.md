@@ -6,11 +6,13 @@ This document explains how your work is evaluated.
 
 Each module will receive one of the following statuses:
 
-| Status              | Meaning                                                                 |
-|---------------------|-------------------------------------------------------------------------|
-| **Complete**        | All required files are present and all checklist items are satisfied.   |
-| **Needs Correction**| Files exist but important requirements are missing or incorrect.        |
-| **Incomplete**      | Major files are missing or the work does not meet the basic standard.   |
+ **Status** | **Meaning**                                                                 
+
+**Complete**  | All required files are present and all checklist items are satisfied.  
+ 
+**Needs Correction**  | Files exist but important requirements are missing or incorrect.
+
+**Incomplete**  | Major files are missing or the work does not meet the basic standard.
 
 There are no percentage scores at this stage.  
 The goal is mastery of the fundamentals.
