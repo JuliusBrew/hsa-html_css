@@ -16,7 +16,7 @@ Complete the required work before moving to the next module.
 
 ## 2. Exercise: `0-selectors.html` + `0-selectors.css`
 
-### Build
+### Ensure your work
 - [ ] Uses element selectors
 - [ ] Uses class selectors
 - [ ] Uses an ID selector
@@ -34,7 +34,7 @@ Complete the required work before moving to the next module.
 
 ## 3. Exercise: `1-specificity.html` + `1-specificity.css`
 
-### Build
+### Ensure your work
 - [ ] Contains conflicting styles that demonstrate specificity
 - [ ] Shows examples of element vs class vs ID specificity
 - [ ] Includes comments explaining which rule wins and why
@@ -50,7 +50,7 @@ Complete the required work before moving to the next module.
 
 ## 4. Exercise: `2-box_model.html` + `2-box_model.css`
 
-### Build
+### Ensure your work
 - [ ] Demonstrates content, padding, border, and margin
 - [ ] Uses `box-sizing: border-box` on at least one element
 - [ ] Shows different spacing between elements
@@ -67,7 +67,7 @@ Complete the required work before moving to the next module.
 
 ## 5. Exercise: `3-typography_colors.html` + `3-typography_colors.css`
 
-### Build
+### Ensure your work
 - [ ] Sets a font family
 - [ ] Uses different font sizes and weights
 - [ ] Applies text color and background color
@@ -86,7 +86,7 @@ Complete the required work before moving to the next module.
 
 ## 6. Exercise: `4-basic_styling.html` + `4-basic_styling.css`
 
-### Build
+### Ensure your work
 - [ ] Styles a complete small page (header, content, footer)
 - [ ] Uses classes for major components
 - [ ] Applies box model spacing

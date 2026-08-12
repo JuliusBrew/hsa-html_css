@@ -156,7 +156,7 @@ Apply these requirements to every exercise.
 
 ## 8. Exercise: `6-common_misconceptions.md`
 
-### Build
+### Ensure your work
 
 - [ ] Corrects the idea that "the website lives in the browser"
 - [ ] Explains where website files actually live (on servers)

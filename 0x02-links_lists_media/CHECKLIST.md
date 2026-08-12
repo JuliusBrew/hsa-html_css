@@ -19,7 +19,7 @@ Apply these requirements to every exercise.
 
 ## 2. Exercise: `0-links.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains the full HTML5 boilerplate
 - [ ] Contains at least one external link (to another website)
@@ -46,7 +46,7 @@ Apply these requirements to every exercise.
 
 ## 3. Exercise: `1-lists.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains the full HTML5 boilerplate
 - [ ] Contains an unordered list (`<ul>`) with at least 3 items
@@ -71,7 +71,7 @@ Apply these requirements to every exercise.
 
 ## 4. Exercise: `2-images.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains the full HTML5 boilerplate
 - [ ] Contains at least two images
@@ -99,7 +99,7 @@ Apply these requirements to every exercise.
 
 ## 5. Exercise: `3-navigation.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains the full HTML5 boilerplate
 - [ ] Contains a `<nav>` element for the navigation menu
@@ -124,7 +124,7 @@ Apply these requirements to every exercise.
 
 ## 6. Exercise: `4-figures.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains the full HTML5 boilerplate
 - [ ] Contains at least two `<figure>` elements

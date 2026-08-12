@@ -19,7 +19,7 @@ Apply these requirements to every exercise.
 
 ## 2. Exercise: `0-boilerplate.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains `<!DOCTYPE html>`
 - [ ] Has `<html lang="en">`
@@ -45,7 +45,7 @@ Apply these requirements to every exercise.
 
 ## 3. Exercise: `1-headings.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains the full HTML5 boilerplate
 - [ ] Has one `<h1>` heading
@@ -69,7 +69,7 @@ Apply these requirements to every exercise.
 
 ## 4. Exercise: `2-text_formatting.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains the full HTML5 boilerplate
 - [ ] Uses at least three different text formatting tags
@@ -93,7 +93,7 @@ Apply these requirements to every exercise.
 
 ## 5. Exercise: `3-semantic_page.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains the full HTML5 boilerplate
 - [ ] Uses `<header>` for the page header
@@ -118,7 +118,7 @@ Apply these requirements to every exercise.
 
 ## 6. Exercise: `4-accessibility_basics.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains the full HTML5 boilerplate
 - [ ] Uses proper heading hierarchy (h1 → h2 → h3)
@@ -145,7 +145,7 @@ Apply these requirements to every exercise.
 
 ## 7. Exercise: `5-blog_article.html`
 
-### Build
+### Ensure your work
 
 - [ ] Contains the full HTML5 boilerplate
 - [ ] Content is wrapped in an `<article>` element

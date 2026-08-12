@@ -18,12 +18,12 @@ Complete the required work before moving to the next module.
 
 ## 2. Exercise: `0-grid_basics.html` + `0-grid_basics.css`
 
-### Build
-- [ ] Create a grid container
-- [ ] Define columns with `grid-template-columns`
-- [ ] Define rows (explicit or auto)
-- [ ] Use `gap` for spacing
-- [ ] Show a clear multi-column layout
+### Ensure your work
+- [ ] Uses a grid container
+- [ ] Defines columns with `grid-template-columns`
+- [ ] Defines rows (explicit or auto)
+- [ ] Uses `gap` for spacing
+- [ ] Shows a clear multi-column layout
 
 ### Check Your Understanding
 - [ ] I can explain what a grid container and grid items are
@@ -37,7 +37,7 @@ Complete the required work before moving to the next module.
 
 ## 3. Exercise: `1-placement.html` + `1-placement.css`
 
-### Build
+### Ensure your work
 - [ ] Places items using `grid-column` and/or `grid-row`
 - [ ] Demonstrates spanning multiple tracks
 - [ ] Creates a non-trivial layout (not just equal cells)
@@ -55,10 +55,10 @@ Complete the required work before moving to the next module.
 
 ## 4. Exercise: `2-grid_areas.html` + `2-grid_areas.css`
 
-### Build
-- [ ] Use `grid-template-areas`
-- [ ] Assign areas to elements with `grid-area`
-- [ ] Create a clear page-like structure (e.g. header / main / sidebar / footer)
+### Ensure your work
+- [ ] Uses `grid-template-areas`
+- [ ] Assigns areas to elements with `grid-area`
+- [ ] Creates a clear page-like structure (e.g. header / main / sidebar / footer)
 - [ ] Code is readable thanks to named areas
 
 ### Check Your Understanding
@@ -73,14 +73,14 @@ Complete the required work before moving to the next module.
 
 ## 5. Exercise: `3-photo_gallery.html` + `3-photo_gallery.css`
 
-### Build
-- [ ] Gallery of images using CSS Grid
-- [ ] Consistent gaps between items
-- [ ] At least one item spans multiple cells (optional but recommended)
+### Ensure your work
+- [ ] Has gallery of images using CSS Grid
+- [ ] Has consistent gaps between items
+- [ ] Has at least one item which spans multiple cells (optional but recommended)
 - [ ] Looks intentional and clean
 
 ### Check Your Understanding
-- [ ] I can build a basic gallery with Grid
+- [ ] I can Ensure your work a basic gallery with Grid
 - [ ] I understand how Grid helps with equal or varied cell sizes
 
 ### Test
@@ -91,11 +91,11 @@ Complete the required work before moving to the next module.
 
 ## 6. Exercise: `4-dashboard_layout.html` + `4-dashboard_layout.css`
 
-### Build
-- [ ] Dashboard-style layout (sidebar + main content + optional top bar/cards)
-- [ ] Use Grid for the overall structure
-- [ ] Multiple content sections/cards arranged intentionally
-- [ ] Clean visual hierarchy
+### Ensure your work
+- [ ] Has a Dashboard-style layout (sidebar + main content + optional top bar/cards)
+- [ ] Uses Grid for the overall structure
+- [ ] Has multiple content sections/cards arranged intentionally
+- [ ] Has a clean visual hierarchy
 
 ### Check Your Understanding
 - [ ] I can structure a simple dashboard with Grid

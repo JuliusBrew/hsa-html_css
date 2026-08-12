@@ -16,7 +16,7 @@ Complete the required work before moving to the next module.
 
 ## 2. Exercise: `0-flex_basics.html` + `0-flex_basics.css`
 
-### Build
+### Ensure your work
 - [ ] Creates a flex container
 - [ ] Demonstrates `flex-direction` (row and column)
 - [ ] Demonstrates `flex-wrap`
@@ -34,11 +34,11 @@ Complete the required work before moving to the next module.
 
 ## 3. Exercise: `1-alignment.html` + `1-alignment.css`
 
-### Build
-- [ ] Use `justify-content` with at least 3 different values
-- [ ] Use `align-items` with at least 2 different values
-- [ ] Demonstrate perfect centering (horizontal + vertical)
-- [ ] Show distribution of space (e.g. space-between, space-around)
+### Ensure your work
+- [ ] Uses `justify-content` with at least 3 different values
+- [ ] Uses `align-items` with at least 2 different values
+- [ ] Demonstrates perfect centering (horizontal + vertical)
+- [ ] Shows distribution of space (e.g. space-between, space-around)
 
 ### Check Your Understanding
 - [ ] I can explain the difference between main axis and cross axis
@@ -52,11 +52,11 @@ Complete the required work before moving to the next module.
 
 ## 4. Exercise: `2-flex_items.html` + `2-flex_items.css`
 
-### Build
-- [ ] Demonstrate `flex-grow`
-- [ ] Demonstrate `flex-shrink` or `flex-basis`
-- [ ] Use the `flex` shorthand at least once
-- [ ] Show `align-self` on an individual item
+### Ensure your work
+- [ ] Demonstrates `flex-grow`
+- [ ] Demonstrates `flex-shrink` or `flex-basis`
+- [ ] Uses the `flex` shorthand at least once
+- [ ] Shows `align-self` on an individual item
 - [ ] Visual examples make the behavior obvious
 
 ### Check Your Understanding
@@ -70,15 +70,15 @@ Complete the required work before moving to the next module.
 
 ## 5. Exercise: `3-navbar.html` + `3-navbar.css`
 
-### Build
-- [ ] Horizontal navigation bar using Flexbox
-- [ ] Logo/brand on one side, links on the other (or evenly distributed)
-- [ ] Proper spacing between items
-- [ ] Hover states on links
+### Ensure your work
+- [ ] Has horizontal navigation bar using Flexbox
+- [ ] Has Logo/brand on one side, links on the other (or evenly distributed)
+- [ ] Has proper spacing between items
+- [ ] Has hover states on links
 - [ ] Looks like a real navbar
 
 ### Check Your Understanding
-- [ ] I can build a basic navbar without looking up the properties
+- [ ] I can Ensure your work a basic navbar without looking up the properties
 - [ ] I understand how Flexbox helps with navigation layouts
 
 ### Test
@@ -88,10 +88,10 @@ Complete the required work before moving to the next module.
 
 ## 6. Exercise: `4-cards_row.html` + `4-cards_row.css`
 
-### Build
-- [ ] Row of at least 3 cards using Flexbox
+### Ensure your work
+- [ ] Has Row of at least 3 cards using Flexbox
 - [ ] Cards have equal height
-- [ ] Consistent spacing (gap or margin)
+- [ ] Has Consistent spacing (gap or margin)
 - [ ] Cards contain heading + text + optional button/link
 - [ ] Layout is clean and intentional
 
@@ -106,11 +106,11 @@ Complete the required work before moving to the next module.
 
 ## 7. Exercise: `5-media_object.html` + `5-media_object.css`
 
-### Build
-- [ ] Classic media object pattern (image/avatar + content beside it)
-- [ ] Use Flexbox for alignment
-- [ ] Content can grow while media stays fixed size
-- [ ] Look polished and reusable
+### Ensure your work
+- [ ] Uses classic media object pattern (image/avatar + content beside it)
+- [ ] Uses Flexbox for alignment
+- [ ] Content can grow while media stays fixed size (tip: box model)
+- [ ] Looks polished and reusable
 
 ### Check Your Understanding
 - [ ] I can explain why the media object is a useful pattern

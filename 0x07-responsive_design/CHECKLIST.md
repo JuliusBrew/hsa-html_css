@@ -16,7 +16,7 @@ Complete the required work before moving to the next module.
 
 ## 2. Exercise: `0-mobile_first.html` + `0-mobile_first.css`
 
-### Build
+### Ensure your work
 - [ ] Base styles target small screens
 - [ ] Uses at least one `min-width` media query to enhance for larger screens
 - [ ] Layout clearly changes between mobile and larger viewports
@@ -34,7 +34,7 @@ Complete the required work before moving to the next module.
 
 ## 3. Exercise: `1-media_queries.html` + `1-media_queries.css`
 
-### Build
+### Ensure your work
 - [ ] Uses at least two breakpoints
 - [ ] Changes layout, spacing, or typography across breakpoints
 - [ ] Media queries are organized and readable
@@ -51,7 +51,7 @@ Complete the required work before moving to the next module.
 
 ## 4. Exercise: `2-responsive_nav.html` + `2-responsive_nav.css`
 
-### Build
+### Ensure your work
 - [ ] Navigation works on mobile (stacked or simplified)
 - [ ] Navigation adapts on larger screens (horizontal bar)
 - [ ] Uses Flexbox (and media queries) appropriately
@@ -69,7 +69,7 @@ Complete the required work before moving to the next module.
 
 ## 5. Exercise: `3-responsive_cards.html` + `3-responsive_cards.css`
 
-### Build
+### Ensure your work
 - [ ] Cards stack on small screens
 - [ ] Cards move into multiple columns on larger screens
 - [ ] Uses Flexbox or Grid + media queries
@@ -87,7 +87,7 @@ Complete the required work before moving to the next module.
 
 ## 6. Exercise: `4-fluid_typography.html` + `4-fluid_typography.css`
 
-### Build
+### Ensure your work
 - [ ] Typography scales across screen sizes
 - [ ] Line length remains readable
 - [ ] Spacing feels balanced on small and large screens

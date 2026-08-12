@@ -19,7 +19,7 @@ Apply these to every file:
 
 ## 2. Exercise: `0-contact_form.html`
 
-### Build
+### Ensure your work
 - [ ] Contains a working `<form>`
 - [ ] Has fields for name, email, and message
 - [ ] Every input/textarea has a properly associated `<label>` (using `for` + `id`)
@@ -38,7 +38,7 @@ Apply these to every file:
 
 ## 3. Exercise: `1-registration_form.html`
 
-### Build
+### Ensure your work
 - [ ] Contains a registration-style form
 - [ ] Includes at least: name, email, password, and confirm password (or similar)
 - [ ] Uses correct input types
@@ -58,7 +58,7 @@ Apply these to every file:
 
 ## 4. Exercise: `2-form_controls.html`
 
-### Build
+### Ensure your work
 - [ ] Demonstrates multiple form controls:
   - [ ] Text input
   - [ ] Email input
@@ -81,7 +81,7 @@ Apply these to every file:
 
 ## 5. Exercise: `3-basic_table.html`
 
-### Build
+### Ensure your work
 - [ ] Contains a simple table
 - [ ] Uses `<table>`, `<tr>`, `<th>`, and `<td>`
 - [ ] Has a clear header row
@@ -98,7 +98,7 @@ Apply these to every file:
 
 ## 6. Exercise: `4-structured_table.html`
 
-### Build
+### Ensure your work
 - [ ] Uses `<thead>`, `<tbody>`, and (optional) `<tfoot>`
 - [ ] Header cells use `<th>`
 - [ ] Table has a meaningful caption or title
